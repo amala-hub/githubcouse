@@ -1,9 +1,10 @@
 package pages;
 
-public class SearchPage {
+public class RegPage {
 
 	public static void main(String[] args) {
-		System.out.println("Serach Page");
+		// TODO Auto-generated method stub
+
 	}
 
 }
